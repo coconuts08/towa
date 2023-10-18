@@ -1,0 +1,14 @@
+body {
+  background-image: url("tokotowa.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+header {
+background-color: #007bff;
+color: purple;
+padding: 10px;
+text-align: center;
+}
+main {
+margin: 20px;
+}
